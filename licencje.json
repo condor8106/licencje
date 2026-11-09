@@ -1,0 +1,14 @@
+{
+ "dane": {
+  "wystawiono": "2026-11-09T08:07:30",
+  "licencje": {
+   "d6384885c513": {
+    "wazna_do": "2026-12-09",
+    "maszyna": "",
+    "zablokowana": false,
+    "rdzen": "50d9d7fdc23c9a9a71261fa7e0deda8ca6a38f931b357bae5eb874d11b282440"
+   }
+  }
+ },
+ "podpis": "1684960a9aeda4e01e52c8ebd1dc170912380dac242f4092219a18e2fdbdf014ae18268158b8a4396c586a0c7e762b76f6aa804ad90370e436e9393117db470d"
+}
